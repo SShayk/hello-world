@@ -1,1 +1,3 @@
-Hello world, I am learning git
+Hello world, I am learning git. 
+Sentence 2
+Sentence 3
